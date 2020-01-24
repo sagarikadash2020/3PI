@@ -1,0 +1,32 @@
+INFO - <<<<<<< Start Test Case Execution-CreateNewRequest>>>>>>>>
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and SetUsername
+INFO - Total no of rows:7
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCase Name:CreateNewRequest MethodName:SetUsername and Value:bu_requester
+INFO - Enter Username
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and SetPassword
+INFO - Total no of rows:7
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetPassword
+INFO - TestCase Name:CreateNewRequest MethodName:SetPassword and Value:Welcome22
+INFO - Invalid Username and Password
+INFO - SubmitNewRequest initiated
+INFO - Clicked Actions
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and Enter_ProjectID
+INFO - Total no of rows:7
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetPassword
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectID
+INFO - TestCase Name:CreateNewRequest MethodName:Enter_ProjectID and Value:xxxx

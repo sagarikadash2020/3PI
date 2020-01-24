@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="104163" started-at="2020-01-20T13:13:33Z" finished-at="2020-01-20T13:15:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="104163" started-at="2020-01-20T13:13:33Z" finished-at="2020-01-20T13:15:17Z">
+      <class name="com.test.MyTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.MyTest@5579bb86]" name="setup" is-config="true" duration-ms="5330" started-at="2020-01-20T18:43:27Z" finished-at="2020-01-20T18:43:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SetupXML()[pri:0, instance:com.test.MyTest@5579bb86]" name="SetupXML" is-config="true" duration-ms="118" started-at="2020-01-20T18:43:33Z" finished-at="2020-01-20T18:43:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupXML -->
+        <test-method status="PASS" signature="CreateNewRequest()[pri:0, instance:com.test.MyTest@5579bb86]" name="CreateNewRequest" duration-ms="103127" started-at="2020-01-20T18:43:33Z" finished-at="2020-01-20T18:45:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewRequest -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.test.MyTest@5579bb86]" name="getResult" is-config="true" duration-ms="6" started-at="2020-01-20T18:45:16Z" finished-at="2020-01-20T18:45:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CreateNewRequest status=SUCCESS method=MyTest.CreateNewRequest()[pri:0, instance:com.test.MyTest@5579bb86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.test.MyTest@5579bb86]" name="endReport" is-config="true" duration-ms="874" started-at="2020-01-20T18:45:16Z" finished-at="2020-01-20T18:45:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.test.MyTest@5579bb86]" name="teardown" is-config="true" duration-ms="4883" started-at="2020-01-20T18:45:17Z" finished-at="2020-01-20T18:45:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.test.MyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

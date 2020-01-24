@@ -1,0 +1,137 @@
+INFO - <<<<<<< Start Test Case Execution-CreateNewRequest>>>>>>>>
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and SetUsername
+INFO - Total no of rows:7
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCase Name:CreateNewRequest MethodName:SetUsername and Value:bu_requester
+INFO - Enter Username
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and SetPassword
+INFO - Total no of rows:7
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetPassword
+INFO - TestCase Name:CreateNewRequest MethodName:SetPassword and Value:Welcome22
+INFO - Invalid Username and Password
+INFO - SubmitNewRequest initiated
+INFO - Clicked Actions
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and Enter_ProjectID
+INFO - Total no of rows:7
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetPassword
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectID
+INFO - TestCase Name:CreateNewRequest MethodName:Enter_ProjectID and Value:47792
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and Select_MakeNewRequest_and_EnterProjectName
+INFO - Total no of rows:7
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetPassword
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectID
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Select_MakeNewRequest_and_EnterProjectName
+INFO - TestCase Name:CreateNewRequest MethodName:Select_MakeNewRequest_and_EnterProjectName and Value:Project_2 April 
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and Enter_ProjectDescription
+INFO - Total no of rows:7
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetPassword
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectID
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Select_MakeNewRequest_and_EnterProjectName
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectDescription
+INFO - TestCase Name:CreateNewRequest MethodName:Enter_ProjectDescription and Value:ProjectDescription_April 1'st
+INFO - Organization Selected
+INFO - Request Submitted Successfully.Message Displayed:IT Service Request Submitted, 17567, Project_2 April
+INFO - Request Id:17567
+INFO - <<<<<<< End Test Case Execution>>>>>>>>
+INFO - <<<<<<< Start Test Case Execution-CreateSOW>>>>>>>>
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateSOW and Uname
+INFO - Total no of rows:7
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:SetPassword
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Enter_ProjectID
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Select_MakeNewRequest_and_EnterProjectName
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Enter_ProjectDescription
+INFO - TestCaseName:CreateSOW
+INFO - L val:1
+INFO - MethodName:Uname
+INFO - TestCase Name:CreateSOW MethodName:Uname and Value:Order_Analyst_01
+INFO - Login Test
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateSOW and Password
+INFO - Total no of rows:7
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:SetPassword
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Enter_ProjectID
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Select_MakeNewRequest_and_EnterProjectName
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Enter_ProjectDescription
+INFO - TestCaseName:CreateSOW
+INFO - L val:1
+INFO - MethodName:Uname
+INFO - TestCaseName:CreateSOW
+INFO - L val:1
+INFO - MethodName:Password
+INFO - TestCase Name:CreateSOW MethodName:Password and Value:Welcome22
+INFO - Clicked on the task with Xpath for Request Task:By.xpath: //a[contains(text(),17567)]
+INFO - Clicked on Continue Button on Assign SOW with xpath:By.xpath: //button[contains(text(),'Continue')]
+INFO - Project Details loaded with xpath:By.xpath: //button[contains(text(),'Project Details')]
+INFO - SOWNumber:GS-12758-SOW-1.00
+INFO - Clicked on Reassign Button on Project Details with xpath:By.xpath: //button[contains(text(),'Reassign')]
+INFO - Element Located with xpath:By.xpath: //button[text()='Cancel']
+INFO - Reassign DropDown Clicked with Xpath:By.xpath: //div[@class='FieldLayout---input_below']/div/div
+INFO - DD:1
+INFO - DD:2
+INFO - DD:3
+INFO - DD:4
+INFO - DD:5
+INFO - DD:6
+INFO - Reassign to POC :POC
+INFO - Selected POC as  :Point_of_Contact_01
+INFO - Clicked on SignOut Button
+INFO - Login Test
+INFO - Project Details, SOW, GS-12758-SOW-1.00, Project_2 April
+INFO - Clicked on the WebElement:By.xpath: //a[contains(text(),'GS-12758-SOW-1.00')]
+INFO - Selected Benefiting Region as:EMEA
+INFO - Selected Managing Region with xpath:By.xpath: //div[@class='DropdownWidget---dropdown']/div[@id='a57e6259cc145ad953a2f33e5aadc8bc_value']
+INFO - Selected WorldWideFranchise with xpath:By.xpath: //div[@class='FieldLayout---input_below']/div/div[@id='6afb3055f3cae6930d12ce3ad1e57e7b_value']
+INFO - Selected WorldWideFranchise with xpath:By.xpath: //div[@class='FieldLayout---input_below']/div/div[@id='6afb3055f3cae6930d12ce3ad1e57e7b_value']
+INFO - Selected Primary Technology with xpath:By.xpath: //td[@class='EditableGridLayout---editable']/div/div[@id='63a4b7ab2e538a7ad7e65c87e3e154d6_value']
+INFO - DD:1
+INFO - DD:2
+INFO - DD:3
+INFO - Reassign to BUApprover :BU Approver
+INFO - DD:1
+INFO - DD:2
+INFO - Reassign to AS Approver :AS Approver

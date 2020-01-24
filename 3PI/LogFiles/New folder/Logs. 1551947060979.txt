@@ -1,0 +1,3 @@
+INFO - Total no of rows:2
+INFO - TestCase Name:CreateSOW MethodName:Password and Value:Welcome14
+INFO - Clicked on the task with Xpath for Request Task:By.xpath: //a[contains(text(),null)]

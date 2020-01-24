@@ -1,0 +1,6 @@
+INFO - <<<<<<< Start Test Case Execution>>>>>>>>
+INFO - SubmitNewRequest initiated
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and SetUsername
+INFO - Total no of rows:2
+INFO - TestCase Name:CreateNewRequest MethodName:SetUsername and Value:bu_requester
+INFO - <<<<<<< Start Test Case Execution>>>>>>>>

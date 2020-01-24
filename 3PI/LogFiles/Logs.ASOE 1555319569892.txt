@@ -1,0 +1,7 @@
+INFO - <<<<<<< Start Test Case Execution-CreateNewRequest>>>>>>>>
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and SetUsername
+INFO - Enter Username
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and SetPassword
+INFO - SubmitNewRequest initiated
+INFO - Clicked Actions
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and Enter_ProjectID

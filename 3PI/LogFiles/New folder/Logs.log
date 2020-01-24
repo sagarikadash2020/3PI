@@ -1,0 +1,19 @@
+08-03-2019 13:40:09 INFO [MyLog]: <<<<<<< Start Test Case Execution>>>>>>>>
+08-03-2019 13:40:12 INFO [MyLog]: ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and SetUsername
+08-03-2019 13:40:13 INFO [MyLog]: Total no of rows:4
+08-03-2019 13:40:13 INFO [MyLog]: TestCase Name:CreateNewRequest MethodName:SetUsername and Value:bu_requester
+08-03-2019 13:40:13 INFO [MyLog]: Enter Username
+08-03-2019 13:40:16 INFO [MyLog]: ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and SetPassword
+08-03-2019 13:40:16 INFO [MyLog]: Total no of rows:4
+08-03-2019 13:40:16 INFO [MyLog]: TestCase Name:CreateNewRequest MethodName:SetPassword and Value:Welcome14
+08-03-2019 13:40:33 INFO [MyLog]: Invalid Username and Password
+08-03-2019 13:40:33 INFO [MyLog]: SubmitNewRequest initiated
+08-03-2019 13:40:39 INFO [MyLog]: Clicked Actions
+08-03-2019 13:41:14 INFO [MyLog]: <<<<<<< Start Test Case Execution>>>>>>>>
+08-03-2019 13:41:15 INFO [MyLog]: ExpectedTestcasename and ExpectedMethodname: CreateSOW and Uname
+08-03-2019 13:41:15 INFO [MyLog]: Total no of rows:4
+08-03-2019 13:41:15 INFO [MyLog]: TestCase Name:CreateSOW MethodName:Uname and Value:Order_Analyst_02
+08-03-2019 13:41:15 INFO [MyLog]: Login Test
+08-03-2019 13:41:15 INFO [MyLog]: ExpectedTestcasename and ExpectedMethodname: CreateSOW and Password
+08-03-2019 13:41:15 INFO [MyLog]: Total no of rows:4
+08-03-2019 13:41:15 INFO [MyLog]: TestCase Name:CreateSOW MethodName:Password and Value:Welcome17

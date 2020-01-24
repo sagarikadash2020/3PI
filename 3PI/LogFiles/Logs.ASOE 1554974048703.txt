@@ -1,0 +1,224 @@
+INFO - <<<<<<< Start Test Case Execution-CreateNewRequest>>>>>>>>
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and SetUsername
+INFO - Total no of rows:11
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCase Name:CreateNewRequest MethodName:SetUsername and Value:bu_requester
+INFO - Enter Username
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and SetPassword
+INFO - Total no of rows:11
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetPassword
+INFO - TestCase Name:CreateNewRequest MethodName:SetPassword and Value:Welcome23
+INFO - Login successful.
+INFO - SubmitNewRequest initiated
+INFO - Clicked Actions
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and Enter_ProjectID
+INFO - Total no of rows:11
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetPassword
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectID
+INFO - TestCase Name:CreateNewRequest MethodName:Enter_ProjectID and Value:47792
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and Select_MakeNewRequest_and_EnterProjectName
+INFO - Total no of rows:11
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetPassword
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectID
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Select_MakeNewRequest_and_EnterProjectName
+INFO - TestCase Name:CreateNewRequest MethodName:Select_MakeNewRequest_and_EnterProjectName and Value:Test project
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and Enter_ProjectDescription
+INFO - Total no of rows:11
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetPassword
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectID
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Select_MakeNewRequest_and_EnterProjectName
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectDescription
+INFO - TestCase Name:CreateNewRequest MethodName:Enter_ProjectDescription and Value:Test project_Desc
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and EnterStartDate
+INFO - Total no of rows:11
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetPassword
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectID
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Select_MakeNewRequest_and_EnterProjectName
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectDescription
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:EnterStartDate
+INFO - TestCase Name:CreateNewRequest MethodName:EnterStartDate and Value:4/20/2019
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and EnterEndDate
+INFO - Total no of rows:11
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetPassword
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectID
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Select_MakeNewRequest_and_EnterProjectName
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectDescription
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:EnterStartDate
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:EnterEndDate
+INFO - TestCase Name:CreateNewRequest MethodName:EnterEndDate and Value:12/31/2019
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and Enter_BUFinance
+INFO - Total no of rows:11
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetPassword
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectID
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Select_MakeNewRequest_and_EnterProjectName
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectDescription
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:EnterStartDate
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:EnterEndDate
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_BUFinance
+INFO - TestCase Name:CreateNewRequest MethodName:Enter_BUFinance and Value:BU_Finance_01
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateNewRequest and Enter_AS_Planned_Amount
+INFO - Total no of rows:11
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:SetPassword
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectID
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Select_MakeNewRequest_and_EnterProjectName
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_ProjectDescription
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:EnterStartDate
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:EnterEndDate
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_BUFinance
+INFO - TestCaseName:CreateNewRequest
+INFO - L val:1
+INFO - MethodName:Enter_AS_Planned_Amount
+INFO - TestCase Name:CreateNewRequest MethodName:Enter_AS_Planned_Amount and Value:100000
+INFO - Organization Selected
+INFO - Request Submitted Successfully.Message Displayed:IT Service Request Submitted, 17592, Test project
+INFO - Request Id:17592
+INFO - <<<<<<< End Test Case Execution>>>>>>>>
+INFO - <<<<<<< Start Test Case Execution-CreateSOW>>>>>>>>
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateSOW and Uname
+INFO - Total no of rows:11
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:SetPassword
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Enter_ProjectID
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Select_MakeNewRequest_and_EnterProjectName
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Enter_ProjectDescription
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:EnterStartDate
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:EnterEndDate
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Enter_BUFinance
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Enter_AS_Planned_Amount
+INFO - TestCaseName:CreateSOW
+INFO - L val:1
+INFO - MethodName:Uname
+INFO - TestCase Name:CreateSOW MethodName:Uname and Value:Order_Analyst_01
+INFO - Login Test
+INFO - ExpectedTestcasename and ExpectedMethodname: CreateSOW and Password
+INFO - Total no of rows:11
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:SetUsername
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:SetPassword
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Enter_ProjectID
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Select_MakeNewRequest_and_EnterProjectName
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Enter_ProjectDescription
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:EnterStartDate
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:EnterEndDate
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Enter_BUFinance
+INFO - TestCaseName:CreateNewRequest
+INFO - TestCaseName:Enter_AS_Planned_Amount
+INFO - TestCaseName:CreateSOW
+INFO - L val:1
+INFO - MethodName:Uname
+INFO - TestCaseName:CreateSOW
+INFO - L val:1
+INFO - MethodName:Password
+INFO - TestCase Name:CreateSOW MethodName:Password and Value:Welcome23

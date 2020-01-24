@@ -1,0 +1,1 @@
+INFO - Clicked on the task with Xpath for Request Task:By.xpath: //a[contains(text(),null)]
